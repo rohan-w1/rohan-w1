@@ -28,11 +28,11 @@ A passionate Data Engineer with a strong focus on Artificial Intelligence (AI) a
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/neurohanw"><img src="https://github-readme-stats.vercel.app/api?username=neurohanw&show_icons=true&hide=stars,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=27272a&hide_border=true&show_icons=true" alt="neurohanw's GitHub stats" /></a>
+<a href="https://github.com/rohan-w1"><img src="https://github-readme-stats.vercel.app/api?username=neurohanw&show_icons=true&hide=stars,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=27272a&hide_border=true&show_icons=true" alt="neurohanw's GitHub stats" /></a>
 
-<a href="http://www.github.com/neurohanw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neurohanw&stroke=ffffff&background=27272a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/rohan-w1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neurohanw&stroke=ffffff&background=27272a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/neurohanw"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=neurohanw&bg_color=27272a&color=ffffff&line=444e59&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/rohan-w1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=neurohanw&bg_color=27272a&color=ffffff&line=444e59&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
